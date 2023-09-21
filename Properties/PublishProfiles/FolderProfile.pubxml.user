@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Flowe\OneDrive\Desktop\Škola\mvc</_PublishTargetUrl>
+    <History>True|2023-09-09T19:11:06.6995504Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SomeeConnection">
+      <Value>Data Source=%28localdb%29\MSSQLLocalDB%3bInitial Catalog=MagistriMVC2%3bMultipleActiveResultSets=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABipmzlbxHE2W0si6YxrR8gAAAAACAAAAAAADZgAAwAAAABAAAABUrLCiG1Co2zjPTArGI9E+AAAAAASAAACgAAAAEAAAAMUUBpRBTcVm8tOT8NKzTdqAAAAA9nnPXeLHSuIeo2FqcowQViPrBeKrYK76JSifY6/xm+VuCXVwGJwN6nJgM4JZv01II50DfHC1S+L44HZK8t/7MnG++EgIKfyNd7v9mnuUkOIQcpw5dBEbU98ZjdGkE6BMlXyqgzE6CUAzquo2953QVtglCM1S58udhK4SB+KkfMoUAAAAw27i3FkmFSs6GoPpM8Ip8Rujx8E=</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-plc-001.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>False|2023-09-09T17:39:21.6941742Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SomeeConnection">
+      <Value>Data Source=%28localdb%29\MSSQLLocalDB%3bInitial Catalog=MagistriMVC2%3bMultipleActiveResultSets=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
